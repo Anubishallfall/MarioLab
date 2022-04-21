@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.797418dd.css",
+    "main.js": "/static/js/main.1a82a8d3.js",
+    "static/media/fundo.jpg": "/static/media/fundo.411f5dcbc8818c630173.jpg",
+    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/Orion_medical-research.svg": "/static/media/Orion_medical-research.ae401da91f99703092515736e4076ac7.svg",
+    "index.html": "/index.html",
+    "main.797418dd.css.map": "/static/css/main.797418dd.css.map",
+    "main.1a82a8d3.js.map": "/static/js/main.1a82a8d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.797418dd.css",
+    "static/js/main.1a82a8d3.js"
+  ]
+}
